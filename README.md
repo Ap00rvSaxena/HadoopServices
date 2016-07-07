@@ -7,3 +7,8 @@ Name node,Secondry Name Node and all the other apllication.
 
 You can find the parent application which uses this repository here:-
 https://github.com/Ap00rvSaxena/HadoopInstaller
+
+## Buid with
+* Eclipse
+* Uses Shell Scripts
+* Java
